@@ -13,6 +13,6 @@
    APIs: RESTful API Testing with Postman, REST Assured
 - 📫 How to reach me
 - Linkdin: https://www.linkedin.com/in/raja-lakshmi-yasaswini-395a63258/
-- Github: 
+- Github: https://github.com/Lakshmiyasaswini 
   
 
