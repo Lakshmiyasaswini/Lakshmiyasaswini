@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lakshmiyasaswini
+  
    I'm a Software Development Engineer in Test (SDET) with a passion for creating robust test frameworks, enhancing software quality, and automating testing processes. With 
    expertise in both software development and testing, I bring a balanced approach to ensuring seamless user experiences and reliable systems.
 - 👀 I’m interested
@@ -6,6 +7,7 @@
    I am insterted in doing the Selenium
 - 🌱 I’m currently learning the Software testing in the Masai School
 - 🚀 Project Highlights
+  
   1.Framework: Built using the Page Object Model (POM) to enhance code readability, maintainability, and reusability.
   2.Functional Coverage: Includes end-to-end test cases for registration, login/logout, product search, cart operations, and checkout processes.
   3.Assertions: Utilizes Cypress's robust assertion library to verify UI elements, data accuracy, and functionality across test scenarios.
