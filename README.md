@@ -36,10 +36,5 @@
 - Linkdin: https://www.linkedin.com/in/raja-lakshmi-yasaswini-395a63258/
 - Github: https://github.com/Lakshmiyasaswini
 - Resume: https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6720dcaf7ca4c4119e72d40f
-- 🌟 Highlights
-  Built end-to-end test automation frameworks for web applications, enhancing release confidence and saving significant testing time
-  Experience with cross-browser testing, mobile testing, and performance testing to ensure comprehensive test coverage
-  Strong advocate of test-driven development (TDD) and behavior-driven development (BDD) practices
-  Collaborated with cross-functional teams to integrate testing into the development lifecycle, promoting a quality-first mindset
-  
+
 
