@@ -25,20 +25,13 @@
   
   2.Functional Coverage: Includes end-to-end test cases for registration, login/logout, product search, cart operations, and checkout processes.
   
-  3.Assertions: Utilizes Cypress's robust assertion library to verify UI elements, data accuracy, and functionality across test scenarios.
-  
-  4.Configuration Management: Reads configuration data from a property file, enabling easy updates to site URLs, credentials, and other environment-specific values.
 - 🔧 Skills & Expertise
   
-   1.Programming Languages: Proficient in Java, JavaScript, and Python
+   1.Testing Tools: Cypress, Selenium, JUnit, TestNG, Cucumber
   
-   2.Testing Tools: Cypress, Selenium, JUnit, TestNG, Cucumber
+   2.Automation Frameworks: Page Object Model (POM), Data-Driven Testing, Behavior-Driven Development (BDD)
   
-   3.Automation Frameworks: Page Object Model (POM), Data-Driven Testing, Behavior-Driven Development (BDD)
-  
-   4.CI/CD: Jenkins, GitHub Actions
-  
-   5.APIs: RESTful API Testing with Postman, REST Assured
+   3.APIs: RESTful API Testing with Postman, REST Assured
   
 - 📫 How to reach me
 - Linkdin: https://www.linkedin.com/in/raja-lakshmi-yasaswini-395a63258/
