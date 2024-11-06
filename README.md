@@ -11,6 +11,14 @@
   
 - 🌱 I’m currently learning the Software testing in the Masai School
 
+- 🛠️ Technical Skills
+
+- Testing Tools
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+- ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 - 🚀 Project Highlights
   
   1.Framework: Built using the Page Object Model (POM) to enhance code readability, maintainability, and reusability.
