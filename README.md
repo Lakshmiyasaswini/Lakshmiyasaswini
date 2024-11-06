@@ -35,6 +35,6 @@
 - 📫 How to reach me
 - Linkdin: https://www.linkedin.com/in/raja-lakshmi-yasaswini-395a63258/
 - Github: https://github.com/Lakshmiyasaswini
-- Resume: https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6720dcaf7ca4c4119e72d40f
+- Resume: (https://drive.google.com/file/d/14bzIWkPPhFmVulOwBZRGN6M5sOqfYpI_/view?usp=sharing)
 
 
